@@ -1,2 +1,2 @@
 # poetry-chocolatey
- Simple script to install Poetry using Chocolatey
+A simple Chocolatey Package for Poetry
