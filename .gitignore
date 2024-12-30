@@ -1,1 +1,4 @@
-poetry.1.0.5.nupkg
+*.nupkg
+*.bak
+.pytest_cache
+.mypy_cache
